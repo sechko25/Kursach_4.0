@@ -1,0 +1,3 @@
+/home/evgeniy/kursach/build/CMakeFiles/rebuild_cache.dir
+/home/evgeniy/kursach/build/CMakeFiles/riscv_sim.dir
+/home/evgeniy/kursach/build/CMakeFiles/edit_cache.dir
